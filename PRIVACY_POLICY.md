@@ -28,5 +28,5 @@ _Last updated: 11st Feb 2025
 - Since we do not collect data, no deletion requests are necessary.
 
 ## 7️⃣ Contact & Support
-- For privacy concerns, contact [Your Email].
+- For privacy concerns, contact yptan6216@gmail.com.
 - This GPT is **for informational purposes only** and does not guarantee job placements.
